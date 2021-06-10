@@ -1,9 +1,8 @@
 {
-  "name": "react-playground-forked",
+  "name": "reacthook",
   "version": "0.0.0",
   "description": null,
   "keywords": [],
-  "homepage": "https://codesandbox.io/s/zzloxr09mp",
   "main": "index.js",
   "dependencies": {
     "react": "^16.7.0-alpha.2",
